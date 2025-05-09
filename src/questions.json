@@ -1,0 +1,76 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "location_name": "Peerd van Ome Loeks",
+        "question_text": "Kruip met je hele team door het paard heen.",
+        "hint": "Het bekende standbeeld bij het station, een symbool van Groningen.",
+        "order_number": 1,
+        "location_image_url": "./images/peerdvanomeloeks.jpg",
+        "map_image_url": "./images/route1.png"
+      },
+      {
+        "id": 2,
+        "location_name": "Groninger Museum",
+        "question_text": "Maak een menselijke piramide (of driehoek) voor het kleurrijke Groninger Museum! Hoe hoger, hoe beter. Zorg voor een veilige opstelling.",
+        "hint": "Het iconische, kleurrijke gebouw aan het water tegenover het station.",
+        "order_number": 2,
+        "location_image_url": "./images/groningermuseum.jpg",
+        "map_image_url": "./images/route1.png"
+      },
+      {
+        "id": 3,
+        "location_name": "Museumbrug",
+        "question_text": "Ga met je team achter elkaar zitten op de Museumbrug en doe alsof jullie in een roeiboor over de gracht varen. Maak hierbij roeigebaren en kijk allemaal dezelfde kant op!",
+        "hint": "De brug die het museum verbindt met de binnenstad, bij het water.",
+        "order_number": 3,
+        "location_image_url": "./images/museumbrug.jpg",
+        "map_image_url": "./images/route1.png"
+      },
+      {
+        "id": 4,
+        "location_name": "Martinitoren",
+        "question_text": "Vorm met je team de beroemde Martinitoren! Ga in verschillende hoogtes staan en strek je armen omhoog om de torenvorm na te doen. De langste persoon staat in het midden!",
+        "hint": "De imposante toren die boven de stad uittorent, het hoogste punt van Groningen centrum.",
+        "order_number": 4,
+        "location_image_url": "./images/martinitoren.jpg",
+        "map_image_url": "./images/route1.png"
+      },
+      {
+        "id": 5,
+        "location_name": "Forum",
+        "question_text": "Bereik de top van het Forum en maak een groepsfoto met het spectaculaire uitzicht over de stad. Doe allemaal een verschillende pose die laat zien hoe indrukwekkend het uitzicht is!",
+        "hint": "Het opvallende moderne gebouw met het publiek toegankelijke dakterras en het prachtige uitzicht.",
+        "order_number": 5,
+        "location_image_url": "./images/forum.jpg",
+        "map_image_url": "./images/route1.png"
+      },
+      {
+        "id": 6,
+        "location_name": "Stadsschouwburg",
+        "question_text": "Creëer een levend kunstwerk voor de Stadsschouwburg! Kies een beroemd schilderij (denk aan \"De Nachtwacht\" of \"De Schreeuw\") en beeld dit zo nauwkeurig mogelijk uit met je team.",
+        "hint": "Het statige theater met de klassieke gevel, gelegen aan het Schouwburgplein.",
+        "order_number": 6,
+        "location_image_url": "./images/stadsschouwburg.jpg",
+        "map_image_url": "./images/route1.png"
+      },
+      {
+        "id": 7,
+        "location_name": "UMCG Hoofdingang",
+        "question_text": "Bij de hoofdingang van het UMCG moet ieder teamlid een andere medische rol uitbeelden (dokter, chirurg, verpleegkundige, patiënt, etc.). Wees creatief en maak er een geloofwaardige \"medische team\" foto van!",
+        "hint": "De grote entree van het Universitair Medisch Centrum Groningen, herkenbaar aan de moderne architectuur.",
+        "order_number": 7,
+        "location_image_url": "./images/umcg.jpg",
+        "map_image_url": "./images/route1.png"
+      },
+      {
+        "id": 8,
+        "location_name": "Het Kasteel",
+        "question_text": "Maak een foto alsof je de glazen brug vasthoudt met je handen (zit vast aan de school en het kasteel).",
+        "hint": "Het historische gebouw met de kenmerkende torens, gelegen aan het water.",
+        "order_number": 8,
+        "location_image_url": "./images/hetkasteel.jpg", 
+        "map_image_url": "./images/route1.png"
+      }
+    ]
+  }
